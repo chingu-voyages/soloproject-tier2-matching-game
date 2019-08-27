@@ -19,7 +19,7 @@ A 'New Game' Button gives the player the means to reset the game board.
 General instructions for all Pre-Work Projects are located in the Chingu Voyage Handbook (URL posted in the
 `#read-me-first` channel on Discord). For detailed requirements checkout the ZenHub Board that is part of this repo.
 
-![zenhub screenshot](./assets/zenhub.png)
+![zenhub screenshot](./assets/matching_game_zenhub.png)
 
 To see the ZenHub tab on the GitHub repo webpage requires that you install ZenHub's browser extension. For more
 information visit the [ZenHub Browser Extension page](https://www.zenhub.com/extension) and these 
