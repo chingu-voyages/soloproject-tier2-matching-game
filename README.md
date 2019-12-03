@@ -28,10 +28,6 @@ A 'New Game' Button gives the player the means to reset the game board.
 
 General instructions for all Pre-Work Projects are located in the Chingu 
 Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). 
-For detailed requirements checkout the ZenHub Board that is part of this repo.
-
-General instructions for all Pre-Work Projects can also be found in the Chingu 
-Voyage Handbook (URL posted in the #read-me-first channel on Discord).
 
 You may use the language of your choice, Vanilla CSS/HTML/JS as well as any 
 framework like Django, VueJS, Angular, React, etc.
