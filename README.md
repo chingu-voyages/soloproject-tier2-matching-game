@@ -51,7 +51,8 @@ font, font size, color scheme, layout, etc.).
 This will involve implementing event handlers for the various user actions 
 such as clicking buttons or cards on the game board.
   - [ ] Create a "New Game" button that resets the current game board to its
-original state.
+original state. This should also randomize the cards so there is a different
+arrangment for each game.
   - [ ] Clicking a card flips it to reveal the symbol on the reverse side
   - [ ] Card flips should be animated
   - [ ] Refer to the [Overview][#overview] above for game rules
