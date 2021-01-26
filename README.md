@@ -24,6 +24,19 @@ the game.
 
 A 'New Game' Button gives the player the means to reset the game board.
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 ## Instructions
 
 General instructions for all Pre-Work Projects are located in the Chingu 
